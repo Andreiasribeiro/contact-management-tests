@@ -22,16 +22,17 @@ It demonstrates basic contact management functionality implemented in JavaScript
 
 ## Project Structure
 
+```text
 contact-management-tests
 │
 ├── src
-│ └── contactManagement.js
+│   └── contactManagement.js
 │
 ├── tests
-│ └── contactManagement.test.js
+│   └── contactManagement.test.js
 │
 ├── examples
-│ └── useContactList.js
+│   └── useContactList.js
 │
 ├── package.json
 └── README.md
@@ -49,3 +50,4 @@ A test report will be generated using Mochawesome.
 ## Author
 
 Andreia Ribeiro
+```
