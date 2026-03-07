@@ -36,6 +36,7 @@ contact-management-tests
 │
 ├── package.json
 └── README.md
+```
 
 ## Running the project
 
@@ -50,4 +51,3 @@ A test report will be generated using Mochawesome.
 ## Author
 
 Andreia Ribeiro
-```
