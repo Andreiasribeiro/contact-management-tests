@@ -1,0 +1,23 @@
+{
+  "name": "contact-management-tests",
+  "version": "1.0.0",
+  "description": "Simple contact management project with automated tests using Mocha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"tests/**/*.test.js\" --reporter mochawesome"
+  },
+  "keywords": [
+    "qa",
+    "testing",
+    "javascript",
+    "mocha",
+    "automation"
+  ],
+  "author": "Andréia Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "mochawesome": "^7.1.4"
+  }
+}
